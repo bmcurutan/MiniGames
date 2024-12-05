@@ -1,6 +1,6 @@
 import UIKit
 
-final class ViewController: UIViewController {
+final class MatchingViewController: UIViewController {
 
     let viewModel = ViewModel()
 
@@ -34,6 +34,7 @@ final class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        title = "Matching Game"
 
         tapHandler =  { [weak self] idx, card, button in
             button.setImage(card.uiImage, for: .normal)
