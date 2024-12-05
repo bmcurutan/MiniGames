@@ -1,6 +1,6 @@
-# Guess the Funko
+Mini Games
 
-The classic "Memory" game, with a Whatnot twist!
+The classic "Memory" game
 
 ## Instructions
 
@@ -10,8 +10,8 @@ The classic "Memory" game, with a Whatnot twist!
 
 ## Tasks
 
-1. Make the game start with all cards "face down", showing the Whatnot logo image instead
-    - there is an image named "whatnot" in the asset catolog for you to use
+1. Make the game start with all cards "face down", showing the default logo image instead
+    - there is an image named "default" in the asset catolog for you to use
 2. When a card is tapped, show it face up
 3. When the 2nd card is flipped face-up, compare it to the other face-up card:
     - If the cards match (i.e. show the same funko, and have the same `tag` value) --> increment the score (and show it in the label), and leave the cards face-up and continue the game
