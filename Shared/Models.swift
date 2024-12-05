@@ -12,7 +12,7 @@ struct FunkoCard: Identifiable {
     let id = UUID().uuidString
     let uiImage: UIImage
     let tag: Int
-    
+
     init(uiImage: UIImage, tag: Int) {
         self.uiImage = uiImage
         self.tag = tag

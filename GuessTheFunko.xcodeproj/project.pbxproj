@@ -14,6 +14,7 @@
 		1B4FCC5E29524833008C9A89 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1B4FCC5D29524833008C9A89 /* Assets.xcassets */; };
 		1B4FCC6129524833008C9A89 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1B4FCC5F29524833008C9A89 /* LaunchScreen.storyboard */; };
 		40E799D229B134C000EDDD2D /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40E799D129B134C000EDDD2D /* Models.swift */; };
+		67E5CCF32D02473800108849 /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67E5CCF22D02473700108849 /* ViewModel.swift */; };
 		D7230DEE2A79AE2500E64713 /* GuessTheFunkoSwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7230DED2A79AE2500E64713 /* GuessTheFunkoSwiftUIApp.swift */; };
 		D7230DF52A79AE2600E64713 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D7230DF42A79AE2600E64713 /* Preview Assets.xcassets */; };
 		D7230DF92A79AE5F00E64713 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40ECE75629C4C24600B94D28 /* ContentView.swift */; };
@@ -33,6 +34,7 @@
 		35E5C94E2A93FDAD00F946B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		40E799D129B134C000EDDD2D /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
 		40ECE75629C4C24600B94D28 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		67E5CCF22D02473700108849 /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
 		D7230DEB2A79AE2500E64713 /* GuessTheFunkoSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GuessTheFunkoSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D7230DED2A79AE2500E64713 /* GuessTheFunkoSwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuessTheFunkoSwiftUIApp.swift; sourceTree = "<group>"; };
 		D7230DF42A79AE2600E64713 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 		1B4FCC5329524833008C9A89 /* UIKit_version */ = {
 			isa = PBXGroup;
 			children = (
+				67E5CCF22D02473700108849 /* ViewModel.swift */,
 				1B4FCC5829524833008C9A89 /* ViewController.swift */,
 				1B4FCC7129536517008C9A89 /* Default */,
 			);
@@ -233,6 +236,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				67E5CCF32D02473800108849 /* ViewModel.swift in Sources */,
 				1B4FCC5929524833008C9A89 /* ViewController.swift in Sources */,
 				1B4FCC5529524833008C9A89 /* AppDelegate.swift in Sources */,
 				40E799D229B134C000EDDD2D /* Models.swift in Sources */,
