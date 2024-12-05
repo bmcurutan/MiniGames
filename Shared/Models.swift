@@ -22,7 +22,7 @@ struct FunkoCard: Identifiable {
         self.init(uiImage: .init(named: "\(tag)")!, tag: tag)
     }
 
-    static let defaultImage: UIImage = UIImage(named: "whatnot")!
+    static let defaultImage: UIImage = UIImage(named: "default")!
 
     ///  Provides an array of all the cards available.
     ///  NOTE: default ordering places matches as horizontal neighbors
