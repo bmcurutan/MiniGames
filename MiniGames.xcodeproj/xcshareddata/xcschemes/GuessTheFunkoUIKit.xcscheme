@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1B4FCC5029524833008C9A89"
-               BuildableName = "GuessTheFunkoUIKit.app"
-               BlueprintName = "GuessTheFunkoUIKit"
-               ReferencedContainer = "container:GuessTheFunko.xcodeproj">
+               BuildableName = "MiniGamesUIKit.app"
+               BlueprintName = "MiniGamesUIKit"
+               ReferencedContainer = "container:MiniGames.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -44,9 +44,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1B4FCC5029524833008C9A89"
-            BuildableName = "GuessTheFunkoUIKit.app"
-            BlueprintName = "GuessTheFunkoUIKit"
-            ReferencedContainer = "container:GuessTheFunko.xcodeproj">
+            BuildableName = "MiniGamesUIKit.app"
+            BlueprintName = "MiniGamesUIKit"
+            ReferencedContainer = "container:MiniGames.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -61,9 +61,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1B4FCC5029524833008C9A89"
-            BuildableName = "GuessTheFunkoUIKit.app"
-            BlueprintName = "GuessTheFunkoUIKit"
-            ReferencedContainer = "container:GuessTheFunko.xcodeproj">
+            BuildableName = "MiniGamesUIKit.app"
+            BlueprintName = "MiniGamesUIKit"
+            ReferencedContainer = "container:MiniGames.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
